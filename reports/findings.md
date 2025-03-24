@@ -57,15 +57,15 @@ Both models align with `future_videos.pdf`’s core suggestions:
 
 ## Identified Themes
 Based on the combined findings, three primary themes emerge:
-1. **Practical Applications & Tools**:
+1. **Practical Applications & Tools**
    - Focus: Real-world examples, hands-on tutorials, tool demonstrations (e.g., Python, Power BI).
    - Evidence: CorEx Topic 1, LDA Topic 3.
    
-2. **Emerging Technologies & Trends**:
+2. **Emerging Technologies & Trends**
    - Focus: Predictive analytics, machine learning, cloud computing.
    - Evidence: CorEx Topic 2, LDA Topic 3 (partial), Topic 2 (trends).
    
-3. **Ethics & Analytical Skills**:
+3. **Ethics & Analytical Skills**
    - Focus: Data ethics, privacy, visualization, soft skills.
    - Evidence: CorEx Topic 3, LDA Topic 2, Topic 1 (skills).
 
